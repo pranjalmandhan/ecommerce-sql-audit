@@ -14,6 +14,8 @@
 | **Market Mix** | Category Aggregations | Ranked products by revenue contribution. |
 
 
+-----
+
 ## Repository Contents
 * `scripts/setup_raw_data.sql`: Environmental setup.
 * `scripts/cleaning.sql`: Data transformation layer.
