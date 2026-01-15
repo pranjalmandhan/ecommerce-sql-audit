@@ -13,7 +13,6 @@
 | **Top Performers** | `GROUP BY`, `ORDER BY`, `LIMIT` | Identified top 3 high-value customers. |
 | **Market Mix** | Category Aggregations | Ranked products by revenue contribution. |
 
-----
 
 ## Repository Contents
 * `scripts/setup_raw_data.sql`: Environmental setup.
